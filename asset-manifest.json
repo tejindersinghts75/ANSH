@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/ANSH/static/css/main.1a949f60.css",
-    "main.js": "/ANSH/static/js/main.975b5305.js",
+    "main.css": "/ANSH/static/css/main.ac25c5a4.css",
+    "main.js": "/ANSH/static/js/main.3ab8a166.js",
     "static/js/787.2c03c697.chunk.js": "/ANSH/static/js/787.2c03c697.chunk.js",
     "static/media/react-img-logo.png": "/ANSH/static/media/react-img-logo.4857b893614aadf1ab2a.png",
     "static/media/google.png": "/ANSH/static/media/google.1489f04e6bf986718dd4.png",
     "static/media/community-cloud.9e8d7d78.webp": "/ANSH/static/media/community-cloud.9e8d7d78.985a9e84ff576146e2ba.webp",
+    "static/media/first (2).png": "/ANSH/static/media/first (2).aa176d3b5e57f39d60e9.png",
+    "static/media/third (2).png": "/ANSH/static/media/third (2).266b28ff52d54f51976e.png",
+    "static/media/fourth.webp": "/ANSH/static/media/fourth.0a341d4306e5db12bb7d.webp",
+    "static/media/fifth.webp": "/ANSH/static/media/fifth.52e0af51c9156721164c.webp",
+    "static/media/second.webp": "/ANSH/static/media/second.08258489f4a206edfd31.webp",
+    "static/media/noise - Copy.webp": "/ANSH/static/media/noise - Copy.1dc22400bb89739e813a.webp",
+    "static/media/houston.766e32af.webp": "/ANSH/static/media/houston.766e32af.3eef20dd6f3987dff396.webp",
     "index.html": "/ANSH/index.html",
-    "main.1a949f60.css.map": "/ANSH/static/css/main.1a949f60.css.map",
-    "main.975b5305.js.map": "/ANSH/static/js/main.975b5305.js.map",
+    "main.ac25c5a4.css.map": "/ANSH/static/css/main.ac25c5a4.css.map",
+    "main.3ab8a166.js.map": "/ANSH/static/js/main.3ab8a166.js.map",
     "787.2c03c697.chunk.js.map": "/ANSH/static/js/787.2c03c697.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a949f60.css",
-    "static/js/main.975b5305.js"
+    "static/css/main.ac25c5a4.css",
+    "static/js/main.3ab8a166.js"
   ]
 }
